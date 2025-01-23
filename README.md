@@ -60,3 +60,8 @@ Ready to collaborate on impactful projects or discuss ideas in data science and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-kmuigai/)  
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/mr_stiga/)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr_stigak)  
+
+---
+### 📊 GitHub Stats:
+![Steve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaugau07&show_icons=true&theme=radical)
+
