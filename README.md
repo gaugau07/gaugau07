@@ -1,12 +1,62 @@
-## Hi there 👋
+## Hi there 👋 I am Steve
 
-# 💫 About Me:
-Hi there! I’m a tech enthusiast with a strong foundation in finance and economics, transitioning into the world of data science. My passion lies in creating innovative solutions that empower smarter financial decisions and uncover insights from data. I'm eager to grow my expertise and collaborate on impactful projects.<br><br>🌟 Current Projects:<br>Budget Advisor App: A financial management tool leveraging data insights to track spending, provide personalized advice, and suggest cost-saving opportunities.<br>Sports Statistics Aggregator: A fun project combining web scraping, statistical analysis, and modeling to analyze and predict game outcomes.<br>🤝 Open to Collaboration:<br>Projects and platforms focused on financial knowledge enhancement, data-driven decision-making, or personal finance tools.<br>Initiatives that leverage data science techniques to tackle real-world challenges.<br>📘 Currently Learning:<br>Data pipeline technologies for building scalable, efficient workflows.<br>Financial modeling and analytics, integrating economic principles with technological tools.<br>Advanced data structures, algorithms, and machine learning concepts for solving complex problems.<br>New ways to apply statistical techniques to analyze and visualize large datasets.<br>💬 Let’s Talk About:<br>Financial analytics and the role of data in shaping smarter financial decisions.<br>Learning financial modeling and exploring its intersections with technology.<br>Innovative uses of data science in economics, personal finance, or broader tech applications.<br>🎉 Fun Fact:<br>I’m an avid reader who enjoys exploring a wide range of genres—from finance and biographies to crime thrillers and fantasy epics. Much like solving problems with data, reading mysteries feels like analyzing clues to uncover hidden truths.<br><br>One of my favorite quotes:<br>"The world is full of obvious things which nobody by any chance ever observes." – Arthur Conan Doyle, The Hound of the Baskervilles
+I’m driven by curiosity and the desire to solve real-world problems using technology. By blending my expertise in finance and economics with the power of data science, I aim to create tools that make smarter decisions accessible to everyone.
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/muigai.stiga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stephen-kmuigai/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/mr_stiga/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mr_stigak) 
+### 💫 About Me:
+I’m a tech enthusiast leveraging my expertise in finance and economics to create impactful data-driven solutions. Passionate about financial analytics and predictive modeling, I’m transitioning into data science to uncover meaningful insights from data. I enjoy combining financial principles with technology to empower smarter decision-making.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=plastic&logo=subversion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+---
 
+### 🌟 Current Projects:
+- **[Budget Advisor App](#)**:  
+  A financial management tool leveraging data insights to track spending, provide personalized advice, and suggest cost-saving opportunities.  
+- **[Sports Statistics Aggregator](#)**:  
+  A fun project combining web scraping, statistical analysis, and modeling to analyze and predict game outcomes.  
+- **[Task Manager App](#)**:  
+  A collaborative platform designed for family setups to organize tasks, track progress, and gamify task completion.  
+  **Features**:  
+  - Task tracking with analytics for trends and optimization.  
+  - Gamified task completion with performance metrics.  
+  - Role-based functionality for seamless collaboration.
+
+---
+
+### 🎯 Goals:
+- Develop robust data pipelines for processing and analyzing financial data.  
+- Apply predictive modeling to enhance financial decision-making.  
+- Collaborate on impactful projects that bridge technology and economics.
+
+---
+
+### 🛠️ Tech Stack Highlights:
+- **Languages**: Python, R, SQL, JavaScript  
+- **Frameworks**: Flask, Django, FastAPI  
+- **Databases**: PostgreSQL, MySQL, SQLite  
+- **DevOps Tools**: Docker, Kubernetes, Apache Airflow  
+- **Data Science**: Pandas, Matplotlib, NumPy  
+
+---
+
+### 🔮 Future Plans:
+- Deepen expertise in machine learning and AI.  
+- Explore applications of blockchain technology in finance.  
+- Build open-source tools for financial literacy and data visualization.
+
+---
+
+🎉 **Fun Fact**:  
+When I’m not coding, you’ll find me reading biographies or mystery novels or strategizing in games—skills I bring into data analysis and problem-solving!
+
+---
+
+### 💡 Let’s Connect!
+Ready to collaborate on impactful projects or discuss ideas in data science and financial technology?  
+- Browse my repositories to explore my work.  
+- Connect with me for brainstorming, sharing insights, or teaming up on exciting initiatives!
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/muigai.stiga)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-kmuigai/)  
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/mr_stiga/)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr_stigak)  
