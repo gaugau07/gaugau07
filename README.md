@@ -62,6 +62,4 @@ Ready to collaborate on impactful projects or discuss ideas in data science and 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr_stigak)  
 
 ---
-### 📊 GitHub Stats:
-![Steve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaugau07&show_icons=true&theme=radical)
 
